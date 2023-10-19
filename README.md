@@ -1,6 +1,6 @@
 ![Web Developer](https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/393641585_227526397004819_7175571889138984767_n.png?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=gH_1tOzeHZoAX9PYRxs&_nc_ht=scontent.fdac135-1.fna&oh=00_AfBGOzTHO46oKxB9gzq1T0kmM8YZLRSTi5Zj39PnGZ4QdQ&oe=6535D1A1)
 
-# 👋, I'm Nur Alam Hridoy
+# 👋, I'm Md Nur Alam Hridoy
 ### Web Developer
 
 A skilled web developer can make your website stand out. Need a web developer? You've come to the right place..
